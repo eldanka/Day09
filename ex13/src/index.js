@@ -10,7 +10,7 @@ function inverseWhile() {
             i--; 
         }
     }
-    return fiveNumbers
+    return fiveNumbers;
 }
 
 console.log(inverseWhile());
